@@ -6,3 +6,4 @@ Rating Label: Multiclass label ranging from 1-5
 
 We have employed varuiious models, compared them through robust measures such as Recall, Precision and F-1 as well as thoroughly analysed misclassified reviews to better understand the underlying behaviour behind these models. 
 
+The data set contained approx 1.7 million observations. 
